@@ -3,7 +3,7 @@ sudo: false
 
 language: node_js
 node_js:
-  - "10"
+  - "12"
 addons:
   apt:
     sources:
@@ -13,7 +13,7 @@ addons:
 
 cache:
   directories:
-     - ./node_modules
+    - ./node_modules
 
 install:
   - npm install
