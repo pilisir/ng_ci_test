@@ -1,0 +1,304 @@
+{
+  "api-enterprise-products": [
+    {
+      "itemName": "專案管理",
+      "itemType": 2,
+      "units": [
+        {
+          "unit": "year",
+          "unitName": "年",
+          "qty": 1,
+          "qtyRegExPattern": "^[1-9][0-9]*$"
+        }
+      ],
+      "unitPrice": 4880,
+      "itemTotalSum": null,
+      "itemId": 6,
+      "image": "assets/img/icon/svg/lale_entPass_icon_icon-6.svg",
+      "icon": "",
+      "description": "一目了然的列表顯示各類工作清單與所屬負責人員，隨時查看項目進度，適度進行人員調整，確保每項任務都能於期限內完成。",
+      "isAccessibleActivated": true,
+      "isBought": false,
+      "isInCart": false
+    },
+    {
+      "itemName": "會議管理",
+      "itemType": 2,
+      "units": [
+        {
+          "unit": "year",
+          "unitName": "年",
+          "qty": 1,
+          "qtyRegExPattern": "^[1-9][0-9]*$"
+        }
+      ],
+      "unitPrice": 3680,
+      "itemTotalSum": null,
+      "itemId": 7,
+      "icon": "",
+      "image": "assets/img/icon/svg/lale_entPass_icon_icon-5.svg",
+      "description": "提供企業從通知、紀錄到會議工作的執行、追蹤、回報一條龍式管理，讓您的會議產生實質效益。",
+      "isAccessibleActivated": true,
+      "isBought": false,
+      "isInCart": false
+    },
+    {
+      "itemName": "行事曆",
+      "itemType": 2,
+      "units": [
+        {
+          "unit": "year",
+          "unitName": "年",
+          "qty": 1,
+          "qtyRegExPattern": "^[1-9][0-9]*$"
+        }
+      ],
+      "unitPrice": 2180,
+      "itemTotalSum": null,
+      "itemId": 8,
+      "icon": "",
+      "image": "assets/img/icon/svg/lale_entPass_icon_icon-2.svg",
+      "description": "快速排定個人行程、事件，同時通知、提醒相關與會者，依需求設定公開與檢視層級；還加以整合資源管理，訊息連結、同步更全面。",
+      "isAccessibleActivated": true,
+      "isBought": false,
+      "isInCart": false
+    },
+    {
+      "itemName": "公佈欄",
+      "itemType": 2,
+      "units": [
+        {
+          "unit": "year",
+          "unitName": "年",
+          "qty": 1,
+          "qtyRegExPattern": "^[1-9][0-9]*$"
+        }
+      ],
+      "unitPrice": 2180,
+      "itemTotalSum": null,
+      "itemId": 9,
+      "icon": "",
+      "image": "assets/img/icon/svg/lale_entPass_icon_icon-3.svg",
+      "description": "依公司或部門設定專屬公佈欄，團隊資訊傳遞更直接；動態圖文輪播，公告不再硬梆梆。",
+      "isAccessibleActivated": true,
+      "isBought": false,
+      "isInCart": false
+    },
+    {
+      "itemName": "文件管理",
+      "itemType": 2,
+      "units": [
+        {
+          "unit": "year",
+          "unitName": "年",
+          "qty": 1,
+          "qtyRegExPattern": "^[1-9][0-9]*$"
+        }
+      ],
+      "unitPrice": 4880,
+      "itemTotalSum": null,
+      "itemId": 10,
+      "icon": "",
+      "image": "assets/img/icon/svg/lale_entPass_icon_icon-7.svg",
+      "description": "內部文件數位化管理，可進行文件審核、權限、組織等控管或遮蔽，提供一個既公開又安全的知識庫空間。",
+      "isAccessibleActivated": true,
+      "isBought": false,
+      "isInCart": false
+    },
+    {
+      "itemName": "工作日誌",
+      "itemType": 2,
+      "units": [
+        {
+          "unit": "year",
+          "unitName": "年",
+          "qty": 1,
+          "qtyRegExPattern": "^[1-9][0-9]*$"
+        }
+      ],
+      "unitPrice": 2680,
+      "itemTotalSum": null,
+      "itemId": 11,
+      "icon": "",
+      "image": "assets/img/icon/png/icon/lale_5_entPass_icon.png",
+      "description": "工作日誌讓您隨時記錄每日辦公狀況，讓主管隨時檢閱部屬任務進度；有問題，馬上回覆並解決；有異動，隨時調整；一來一往，即時又方便。",
+      "isAccessibleActivated": true,
+      "isBought": false,
+      "isInCart": false
+    },
+    {
+      "itemName": "資源管理",
+      "itemType": 2,
+      "units": [
+        {
+          "unit": "year",
+          "unitName": "年",
+          "qty": 1,
+          "qtyRegExPattern": "^[1-9][0-9]*$"
+        }
+      ],
+      "unitPrice": 2180,
+      "itemTotalSum": null,
+      "itemId": 12,
+      "icon": "",
+      "image": "assets/img/icon/png/icon/lale_6_entPass_icon.png",
+      "description": "透過系統將資源做分權管理，也可將資源進行項目分類並針對不同對象擬定租借權限，實現共享就是這麼容易。",
+      "isAccessibleActivated": true,
+      "isBought": false,
+      "isInCart": false
+    },
+    {
+      "itemName": "團購",
+      "itemType": 2,
+      "units": [
+        {
+          "unit": "year",
+          "unitName": "年",
+          "qty": 1,
+          "qtyRegExPattern": "^[1-9][0-9]*$"
+        }
+      ],
+      "unitPrice": 2180,
+      "itemTotalSum": null,
+      "itemId": 13,
+      "icon": "",
+      "image": "assets/img/icon/png/icon/lale_7_entPass_icon.png",
+      "description": "舉凡公司、部門、個人想要購買任何東西，只要藉由團購系統快速編輯，輕鬆上架，無論下單、匯總清單或是金額統計所有繁瑣的過程，都可一氣呵成；智能時代shopping也要很智慧。",
+      "isAccessibleActivated": true,
+      "isBought": false,
+      "isInCart": false
+    },
+    {
+      "itemName": "相簿",
+      "itemType": 2,
+      "units": [
+        {
+          "unit": "year",
+          "unitName": "年",
+          "qty": 1,
+          "qtyRegExPattern": "^[1-9][0-9]*$"
+        }
+      ],
+      "unitPrice": 2180,
+      "itemTotalSum": null,
+      "itemId": 14,
+      "icon": "",
+      "image": "assets/img/icon/png/icon/lale_8_entPass_icon.png",
+      "description": "記錄各類企業活動、教育訓練、部門聚餐、員工旅遊等團隊生活，無論照片或是影片，想分享，被分享就都用影像來進行交流吧。",
+      "isAccessibleActivated": true,
+      "isBought": false,
+      "isInCart": false
+    },
+    {
+      "itemName": "活動管理模組",
+      "itemType": 2,
+      "units": [
+        {
+          "unit": "year",
+          "unitName": "年",
+          "qty": 1,
+          "qtyRegExPattern": "^[1-9][0-9]*$"
+        }
+      ],
+      "unitPrice": 3680,
+      "itemTotalSum": null,
+      "itemId": 15,
+      "icon": "",
+      "image": "assets/img/icon/png/icon/lale_9_entPass_icon.png",
+      "description": "活動名單管理、報名通知、出席管理、活動日程、抽獎活動。",
+      "isAccessibleActivated": true,
+      "isBought": false,
+      "isInCart": false
+    },
+    {
+      "itemName": "會員管理模組",
+      "itemType": 2,
+      "units": [
+        {
+          "unit": "year",
+          "unitName": "年",
+          "qty": 1,
+          "qtyRegExPattern": "^[1-9][0-9]*$"
+        }
+      ],
+      "unitPrice": 4880,
+      "itemTotalSum": null,
+      "itemId": 16,
+      "icon": "",
+      "image": "assets/img/icon/png/icon/lale_10_entPass_icon.png",
+      "description": "會員名單管理、會員繳費管理、統計報表。",
+      "isAccessibleActivated": true,
+      "isBought": false,
+      "isInCart": false
+    },
+    {
+      "itemName": "簡訊通知",
+      "itemType": 2,
+      "units": [
+        {
+          "unit": "通",
+          "unitName": "通",
+          "qty": 100,
+          "qtyRegExPattern": "^[0-9]*00$"
+        }
+      ],
+      "unitPrice": 1.3,
+      "itemTotalSum": null,
+      "itemId": 17,
+      "icon": "",
+      "image": "assets/img/icon/png/icon/lale_11_entPass_icon.png",
+      "description": "活動會前通知、繳費通知等簡訊通知。一次購買以 100 為單位。",
+      "isAccessibleActivated": true,
+      "isBought": false,
+      "isInCart": false
+    },
+    {
+      "itemName": "硬體儲存空間",
+      "itemType": 2,
+      "units": [
+        {
+          "unit": "?",
+          "unitName": "?",
+          "qty": 1,
+          "qtyRegExPattern": "^[1-9][0-9]*$"
+        }
+      ],
+      "unitPrice": 99999,
+      "itemTotalSum": null,
+      "itemId": 18,
+      "icon": "",
+      "image": "assets/img/icon/png/icon/lale_12_entPass_icon.png",
+      "description": "此部分需先釐清租用雲端主機費用再進行擬定",
+      "isAccessibleActivated": false,
+      "isBought": false,
+      "isInCart": false
+    },
+    {
+      "itemName": "員工帳號數",
+      "itemType": 2,
+      "units": [
+        {
+          "unit": "person",
+          "unitName": "人",
+          "qty": 1,
+          "qtyRegExPattern": "^[1-9][0-9]*$"
+        },
+        {
+          "unit": "year",
+          "unitName": "年",
+          "qty": 1,
+          "qtyRegExPattern": "^[1-9][0-9]*$"
+        }
+      ],
+      "unitPrice": 1890,
+      "itemTotalSum": null,
+      "itemId": 19,
+      "icon": "",
+      "image": "assets/img/icon/png/icon/lale_13_entPass_icon.png",
+      "description": "額外加購更多組織內的員工人數。",
+      "isAccessibleActivated": true,
+      "isBought": false,
+      "isInCart": false
+    }
+  ]
+}

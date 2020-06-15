@@ -1,11 +1,17 @@
-import { browser, by, element } from 'protractor';
+import { browser, by, element, ElementFinder, $, $$ } from 'protractor';
 
 export class AppPage {
-  navigateTo(): Promise<unknown> {
-    return browser.get(browser.baseUrl) as Promise<unknown>;
+  navigateTo(url?: string): Promise<unknown> {
+    return browser.get(url ? url : browser.baseUrl) as Promise<unknown>;
   }
 
-  getTitleText(): Promise<string> {
-    return element(by.css('app-root .content span')).getText() as Promise<string>;
+  getElementText(selector: string): Promise<string> {
+    // return element(by.css(selector)).getText() as Promise<string>;
+    return $(selector).getText() as Promise<string>;
+  }
+
+  getElement(selector: string): ElementFinder {
+    // return element(by.css(selector));
+    return $(selector);
   }
 }
