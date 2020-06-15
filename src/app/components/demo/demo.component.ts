@@ -11,7 +11,7 @@ export class DemoComponent implements OnInit {
   constructor(
     private demo2service: Demo2Service
   ) { }
-  get message() { return `The light is ${this.isOn ? 'On' : 'Off'}`; }
+  get message() { return `The light is ${this.isOn ? 'Oxn' : 'Off'}`; }
 
   isOn = false;
 
@@ -21,7 +21,7 @@ export class DemoComponent implements OnInit {
   clicked() {
     // console.log(this.demo2service.getValue('str'));
     // if (this.demo2service.getValue('str') === 'str') {
-      this.isOn = !this.isOn;
+    this.isOn = !this.isOn;
     // }
   }
 }
