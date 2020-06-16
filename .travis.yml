@@ -14,10 +14,6 @@ cache:
 install:
   - npm install
 
-before_script:
-  - curl "https://chromedriver.storage.googleapis.com/83.0.4103.39/chromedriver_linux64.zip" -O
-  - unzip chromedriver_linux64.zip -d ~/bin
-
 script:
   - npm run test -- --no-watch --no-progress --browsers=ChromeHeadlessCI
   - npm run e2e -- --protractor-config=e2e/protractor-ci.conf.js
