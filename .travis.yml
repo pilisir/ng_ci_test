@@ -15,7 +15,7 @@ install:
   - npm install
 
 before_script:
-  - chromedriver-update 73.0.3683.68
+  - bundle exec rails runner "Webdrivers::Chromedriver.update"
 
 script:
   - npm run test -- --no-watch --no-progress --browsers=ChromeHeadlessCI
