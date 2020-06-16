@@ -17,7 +17,6 @@ install:
 before_script:
   - curl "https://chromedriver.storage.googleapis.com/83.0.4103.39/chromedriver_linux64.zip" -O
   - unzip chromedriver_linux64.zip -d ~/bin
-  - chromedriver-update 83.0.4103.39
 
 script:
   - npm run test -- --no-watch --no-progress --browsers=ChromeHeadlessCI
