@@ -1,5 +1,5 @@
-const { SpecReporter } = require("jasmine-spec-reporter");
 const config = require("./protractor.conf").config;
+const { SpecReporter } = require("jasmine-spec-reporter");
 
 config.capabilities = {
   browserName: "chrome",
@@ -8,7 +8,7 @@ config.capabilities = {
   },
 };
 
-config.onPrepare() = () => {
+config.onPrepare = () => {
   require("ts-node").register({
     project: require("path").join(__dirname, "./tsconfig.json"),
   });
