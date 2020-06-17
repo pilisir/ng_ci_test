@@ -6,8 +6,7 @@ node_js:
   - "12"
 addons:
   apt:
-    update:
-      - true
+    update: true
   chrome: stable
 
 cache:
